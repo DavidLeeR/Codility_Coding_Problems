@@ -8,4 +8,4 @@
 <br/>
     
 <br/>
-*Note: Disregard the amount of time taken for each problem. Any errors found in the problem solution after submission resulted in copying the code of the solution into a new submission, modifying it, and resubmitting to obtain a 100% score. Thus, the amount of time listed is not an accurate representation of the actual amount of time taken.
+*Note: Disregard the amount of time taken for each problem. Any errors found in the problem solution after submission resulted in copying the code of the solution into a new submission, modifying it, and resubmitting it to obtain a 100% score. Thus, the amount of time listed is not an accurate representation of the actual amount of time taken.*
