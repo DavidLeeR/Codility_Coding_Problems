@@ -8,7 +8,7 @@
 <br/>
 4. Time Complexity (frog jump): https://app.codility.com/demo/results/training6Y2JYM-9CR/
 <br/>
-3. Arrays (odd occurences): https://app.codility.com/demo/results/trainingCFBVM7-JUK/
+5. Time Complexity (tape equilibrium): https://app.codility.com/demo/results/trainingCJJUKM-MX6/
 <br/>
     
 <br/>
