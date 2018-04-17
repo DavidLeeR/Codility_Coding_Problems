@@ -1,6 +1,6 @@
 # Codility_Coding_Problems
 <br/>
-Binary Gap: https://app.codility.com/demo/results/trainingWWM8P3-9YV/
+1. Binary Gap: https://app.codility.com/demo/results/trainingWWM8P3-9YV/
 <br/>
-Arrays: https://app.codility.com/demo/results/trainingD7CSQS-Y3N/
+2. Arrays: https://app.codility.com/demo/results/trainingD7CSQS-Y3N/
 <br/>
