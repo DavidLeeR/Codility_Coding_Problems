@@ -4,3 +4,4 @@
 <br/>
 2. Arrays: https://app.codility.com/demo/results/trainingD7CSQS-Y3N/
 <br/>
+3. Arrays: https://app.codility.com/demo/results/trainingCFBVM7-JUK/
