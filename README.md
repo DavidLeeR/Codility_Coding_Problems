@@ -6,7 +6,7 @@
 <br/>
 3. Arrays (odd occurences): https://app.codility.com/demo/results/trainingCFBVM7-JUK/
 <br/>
-3. Time Complexity (frog jump): https://app.codility.com/demo/results/training6Y2JYM-9CR/
+4. Time Complexity (frog jump): https://app.codility.com/demo/results/training6Y2JYM-9CR/
 <br/>
 3. Arrays (odd occurences): https://app.codility.com/demo/results/trainingCFBVM7-JUK/
 <br/>
